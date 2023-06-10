@@ -8,8 +8,7 @@ Using import math function, do the calculation.
 ### Step 2: 
 Take the coordinates as |1 and 2|
 ### Step 3: 
-Substitute the values in the distance formula 
-![formula](/formula.jpg)
+Substitute the values in the distance formula ![formula](/formula.jpg)
 ### Step 4:
 Using the print function, display the distance between the two points.
 ### Step 5: 
